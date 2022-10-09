@@ -12,3 +12,4 @@ implementation of a basic version of the interactive image cut-out / segmentatio
 
 # Assignment 3
 Line Detection via the Hough Transform and analysis of the best parameters used such as edge magnitude threshold used to determine edge pixels vs. non-edge pixels, size of the accumulator cells (in terms of pixels) in the Hough space, the min and max range of the Hough parameters a, b, peak detection threshold in the Hough space, etc.
+
