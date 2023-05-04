@@ -1,4 +1,4 @@
-# Digital image processing assignments
+# Digital image processing
 
 This repository contain assignments of digital image processing taught by Dr. Shahzor Ahmad
 
